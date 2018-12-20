@@ -1009,19 +1009,19 @@ img {
 .profit__text {
   margin-top: 0;
   margin-bottom: 0;
-  width: 300px;
+  width: 275px;
 }
 
 @media (min-width: 1025px) and (max-width: 1919px) {
   .profit__text {
-    width: 15.62vw;
+    width: 14.32vw;
   }
 }
 
 @media (min-width: 641px) and (max-width: 1024px) {
   .profit__text {
     margin-top: 0;
-    width: 39.06vw;
+    width: 34.06vw;
     text-align: center;
   }
 }
@@ -1029,7 +1029,7 @@ img {
 @media (max-width: 640px) {
   .profit__text {
     margin-top: 0;
-    width: 69.68vw;
+    width: 57.68vw;
     text-align: left;
     font-size: 100%;
     line-height: 5.31vw;
@@ -1477,7 +1477,7 @@ img {
     align-self: center;
     margin-top: 4.16vw;
     margin-bottom: 4.16vw;
-    width: 65.1vw;
+    width: 64.1vw;
     line-height: 3.9vw;
   }
 }
@@ -1521,12 +1521,12 @@ img {
 .experiment__item {
   margin-top: 20px;
   margin-bottom: 20px;
-  width: 730px;
+  width: 672px;
 }
 
 @media (min-width: 1025px) and (max-width: 1919px) {
   .experiment__item {
-    width: 38.02vw;
+    width: 35vw;
     margin-top: 1.04vw;
     margin-bottom: 1.04vw;
   }
@@ -1542,7 +1542,7 @@ img {
 
 @media (max-width: 640px) {
   .experiment__item {
-    width: 79.68vw;
+    width: 83.68vw;
     align-self: center;
     margin-top: 4.68vw;
   }

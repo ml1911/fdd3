@@ -824,6 +824,7 @@ img {
 
 @media (max-width: 640px) {
   .profit__header {
+    margin-top: 10vw;
     align-items: center;
   }
 }
